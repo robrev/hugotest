@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "Hugo Test"
+theme = "hugo-uno"
+baseURL = "http://localhost"
