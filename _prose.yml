@@ -1,4 +1,6 @@
 prose:
+  rooturl: 'content'
+  media: 'static/images'
   metadata:
     post:
       - name: date
