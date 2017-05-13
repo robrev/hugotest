@@ -19,3 +19,14 @@ Here's an image:
 Here's another:
 ![Another image](/images/UNB.png)
 
+{{< tweet 666616452582129664 >}}
+
+{{< youtube w7Ft2ymGmfc >}}
+
+{{< vimeo 146022717 >}}
+
+{{< gist spf13 7896402 >}}
+
+{{< speakerdeck 4e8126e72d853c0060001f97 >}}
+
+
