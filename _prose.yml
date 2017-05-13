@@ -11,3 +11,6 @@ prose:
         field:
           element: "text"
           value: ""
+      - name: published
+          element: "checkbox"
+          value: true
