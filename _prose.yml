@@ -1,0 +1,11 @@
+prose:
+  metadata:
+    post:
+      - name: date
+        field:
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: title
+        field:
+          element: "text"
+          value: ""
